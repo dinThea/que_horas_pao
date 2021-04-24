@@ -1,0 +1,8 @@
+*.pyc
+__pycache__
+bread
+amatch
+*.mp4
+*.pb
+*.jpg
+result.json

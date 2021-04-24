@@ -1,0 +1,7 @@
+pillow
+pytesseract
+imutils
+scipy
+scikit-image
+flask
+requests
